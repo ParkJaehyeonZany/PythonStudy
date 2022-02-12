@@ -36,7 +36,7 @@ while True:
     player = tuple(map(int, input('숫자를 입력하세요 : ').split()))
     if len(player) != 3 :
         while True:
-            print('숫자 3개만 입력하세요 ex)')
+            print('숫자 3개를 입력하세요. ex) 1 2 3')
             player = tuple(map(int, input('숫자를 입력하세요 : ').split()))
             if len(player) == 3:
                 break
