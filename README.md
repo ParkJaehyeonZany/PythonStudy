@@ -1,1 +1,1 @@
-# 파이썬 연습 폴더입니다.
+# Folder that Review and study
